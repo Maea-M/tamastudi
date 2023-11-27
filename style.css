@@ -11,7 +11,7 @@ ul, ol {
 }
 
 button {
-    border-width: 0px;
+    border-width: 0px;    
 }
 
 /* FOND */
@@ -31,6 +31,7 @@ body {
 
 .vitals {
     color: #FFF0DB;
+    font-family: 'Playpen Sans', cursive;
     text-align: center;
 }
 
