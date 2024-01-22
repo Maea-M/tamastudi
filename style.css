@@ -11,7 +11,7 @@ ul, ol {
 }
 
 button {
-    border-width: 0px;    
+    border-width: 0px;
 }
 
 /* FOND */
@@ -24,14 +24,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10vw
+    gap: 10vw;
+    font-family: Helvetica, sans-serif;
 }
 
 /* PARTIE DE GAUCHE */
 
 .vitals {
     color: #FFF0DB;
-    font-family: 'Playpen Sans', cursive;
     text-align: center;
 }
 
@@ -203,6 +203,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-end;
+}
+
+.tamastudi__desire {
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+    top: 1rem;
+    left: 2rem;
 }
 
 
